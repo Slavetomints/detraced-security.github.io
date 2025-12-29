@@ -97,7 +97,7 @@ Some sites remain active as we work to take them down, but most have been catego
 
 ### RetracFix Sample:
 
-```
+```txt
 Output DLL: AarSvcw.dll
 Intermediates: windows.cmd, boot64x.w, netstat.c (used during reconstruction)
 
@@ -108,7 +108,8 @@ Hash - windows.cmd (Obfuscated): 07be8edabaa28e6d4ce30c5999b22aab53eac89a43fb036
 ```
 
 ### Affiliated Samples
-```
+
+```txt
 40b461edb9b2a18bc2ed8236789c1672  2fa.bat
 7c92b6d50d1ab7ae24ee93d307c376f2  2faBeta.exe
 bc1cfd626ef0eedcdcc46036b649c406  a.exe
